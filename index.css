@@ -1,0 +1,28 @@
+#service-list {
+    list-style-type: none;
+    margin-left:0px;
+    padding-left:0px;
+    display: inline-block;
+    border-style: solid;
+    border-color: blue;
+    border: 100%;
+    width: 500%vw;
+    border-radius: 25px;
+    }
+    
+    #service-list img
+    {
+    border-style: solid;
+    border-color: blue;
+    float:left;
+    height: 20vh;
+    border-radius: 20px;
+    filter: drop-shadow(5px 5px 5px blue);
+    }
+    
+    #service-list p {
+    text-align: ce; 
+    display:inline-block;
+    padding:20px;
+ 
+    }
